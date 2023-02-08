@@ -1,8 +1,5 @@
 class GameX0():
     def __init__(self):
-        self.pool = {'A': [' ', ' ', ' '],
-                     'B': [' ', ' ', ' '],
-                     'C': [' ', ' ', ' ']}
         self.gamestatus = False
 
     def gamestart(self):
